@@ -1,0 +1,9 @@
+{
+	"name": "olympic-data-factory-vip",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5b92e82-d70c-49cd-8f0c-b6ceb2b2a0dd",
+		"tenantId": "03b17786-6d87-4826-b8a4-87956dfa4ad5"
+	}
+}
