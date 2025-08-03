@@ -1,0 +1,9 @@
+{
+	"name": "olympicdatabricks",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "328b97bb-684b-42d8-ad82-9f39296e6e4a",
+		"tenantId": "03b17786-6d87-4826-b8a4-87956dfa4ad5"
+	}
+}
