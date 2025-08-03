@@ -1,17 +1,11 @@
 {
 	"name": "json_value",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "datalakehttp",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "Json",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobFSLocation",
-				"fileName": "json1.json",
-				"fileSystem": "paramater"
+				"type": "AzureBlobFSLocation"
 			}
 		},
 		"schema": {}
